@@ -1,4 +1,5 @@
 How can a computer reason about facts and draw conclusions from the facts?
+
 Using MODEL CHECKING
 
 To determine if knowledge base entails some query alpha (KB |= alpha):
