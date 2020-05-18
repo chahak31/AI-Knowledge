@@ -2,11 +2,11 @@ How can a computer reason about facts and draw conclusions from the facts?
 
 Using MODEL CHECKING
 
-To determine if knowledge base entails some query alpha (KB |= alpha):
+1. To determine if knowledge base entails some query alpha (KB |= alpha):
 
-Enumerate all possible models //In other words, consider all possible values of true and false for our variables
+2. Enumerate all possible models //In other words, consider all possible values of true and false for our variables
 
-If in every model, where our knowledge base is true, alpha is also true. Then KB entails alpha.
+3. If in every model, where our knowledge base is true, alpha is also true. Then KB entails alpha.
 
-Otherwise, KB does not entail alpha
+4. Otherwise, KB does not entail alpha
 
